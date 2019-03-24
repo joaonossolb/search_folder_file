@@ -5,7 +5,7 @@ Este script é parecido com a ferramenta dirb, porém, faz a procura de diretór
 
 ./run.sh
 
-# Iñformações:
+# Informações:
 o run.sh, cria um script de acordo com as informações passadas nele, os diretorios e arquivos já estão configurados corretamente para buscar sem a necessidade de passar wordlist....
 Se quiser fazer uma busca de diretorios ou arquivos com sua wordlist, utilize o script gera_script.sh para criar um script de busca de diretórios e arquivos personalizados...
 
